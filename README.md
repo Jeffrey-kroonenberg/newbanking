@@ -13,6 +13,7 @@ Add this in your server.cfg :
 start new_banking
 
 Credits: script modified by: JeffreyGames | https://github.com/Jeffrey-kroonenberg
+
 script created by:  https://github.com/NewWayRP/new_banking
 
 Discord: https://discord.gg/2e2m6DWx9u
